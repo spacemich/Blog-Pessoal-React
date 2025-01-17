@@ -2,7 +2,7 @@
  Atividade do 3º Bloco da Generation Brasil - Java FullStack
  
 ![image](https://github.com/user-attachments/assets/3c534054-84b2-44ab-85fc-c57bc38a7885)
-![image](https://github.com/user-attachments/assets/edeb37e4-81d3-4f5e-aa47-a5cacb8db836)
+![image](https://github.com/user-attachments/assets/efd952a9-0ae8-44b9-8a32-4697756134d5)
 
 Bem-vindo(a) ao **Blog da Mich**! Este é um projeto pessoal desenvolvido em React, um blog com estilo único baseado nos meus conhecimentos com o bootcamp da Generation Brasil.
 
