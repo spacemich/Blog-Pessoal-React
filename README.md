@@ -1,7 +1,7 @@
 # Blog pessoal | Blog da Mich - React 🌸
  Atividade do 3º Bloco da Generation Brasil - Java FullStack
  
-![image](![image](https://github.com/user-attachments/assets/3c534054-84b2-44ab-85fc-c57bc38a7885)
+![image](https://github.com/user-attachments/assets/3c534054-84b2-44ab-85fc-c57bc38a7885)
 )
 
 Bem-vindo(a) ao **Blog da Mich**! Este é um projeto pessoal desenvolvido em React, um blog com estilo único baseado nos meus conhecimentos com o bootcamp da Generation Brasil.
