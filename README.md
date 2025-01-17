@@ -1,4 +1,4 @@
-# Blog pessoal | Blog da Mich - React -  🌸
+# Blog pessoal | Blog da Mich - React -  ✨🌸✨
 
 Atividade do 3º Bloco da Generation Brasil - Java FullStack
 Este projeto é uma aplicação React estilizada com Tailwind CSS, criada como parte de uma atividade prática da **Generation**. O objetivo principal é implementar um sistema de rotas e estilização utilizando Tailwind CSS.
@@ -26,18 +26,17 @@ Este projeto é uma aplicação React estilizada com Tailwind CSS, criada como p
 
 ---
 
-## 🌸 Pré-requisitos
+## 🌸⚙️ 🙃 Pré-requisitos 🙃 ⚙️🌸
 
 Antes de começar, certifique-se de ter instalado:
 
 - **Node.js** (versão 14 ou superior)
 - **npm** ou **yarn**
 - **VSCode**
+- **React ES7**
 
 ---
 
-## ⚙️ Como Rodar o Projeto
-
-1. Clone o repositório:
+1. Clone o repositório: 💫🌟😉🌟💫
    ```bash
    git clone https://github.com/seu-usuario/blog-da-mich.git
