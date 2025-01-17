@@ -18,7 +18,7 @@ function Home() {
                         <img
                             src="https://i.imgur.com/1RC7VHu.jpeg"
                             alt="Imagem da Página Home, uma flor colorida, simbolizando leveza."
-                            width="500px"
+                            width="600px"
                         />
                     </div>
                 </div>
