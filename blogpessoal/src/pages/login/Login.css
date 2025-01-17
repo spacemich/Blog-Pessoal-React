@@ -1,6 +1,14 @@
 .fundoLogin {
-    ;
     background-image: url("https://i.imgur.com/bUCIOXY.png");
+    background-color: rgb(9, 78, 61);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.fundoLogin2 {
+    background-image: url("https://i.imgur.com/k7PsZdp.jpeg");
     background-color: rgb(9, 78, 61);
     background-repeat: no-repeat;
     min-height: 100vh;
