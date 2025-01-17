@@ -5,7 +5,7 @@ Este projeto é uma aplicação React estilizada com Tailwind CSS, criada como p
 
 ---
 
-[Foto da pagina home com tailwind-CSS](![image](https://github.com/user-attachments/assets/82ef6282-4bef-4abc-a90c-1d25fd66ba3b)
+[Foto da pagina home com tailwind-CSS](https://github.com/user-attachments/assets/82ef6282-4bef-4abc-a90c-1d25fd66ba3b)
 )
 
 ## 🚀 Funcionalidades
