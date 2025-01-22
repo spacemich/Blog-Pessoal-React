@@ -18,7 +18,7 @@ function CardTemas({ tema }: CardTemasProps) {
                     <button>Editar</button>
                 </Link>
                 <Link to={`/deletartema/${tema.id}`}
-                    className='text-slate-950 bg-[#99d13f] hover:bg-red-200 w-full 
+                    className='text-slate-950  bg-[#99d13f] hover:bg-red-200 w-full 
                     flex items-center justify-center'>
                     <button>Deletar</button>
                 </Link>
