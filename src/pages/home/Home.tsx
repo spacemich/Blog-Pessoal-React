@@ -1,3 +1,6 @@
+import ListaPostagens from "../../components/postagens/listapostagens/ListaPostagens";
+import ModalPostagem from "../../components/postagens/modalpostagem/ModalPostagem";
+
 function Home() {
     return (
         <>
@@ -18,13 +21,15 @@ function Home() {
                             <br />
                             <div className="flex items-center justify-between gap-2 text-2xl">
                                 <br/>
-                                
                                 <p>𝑺𝒆𝒔𝒔𝒂̃𝒐 𝒅𝒆 𝒑𝒐𝒔𝒕𝒂𝒈𝒆𝒎:</p>
                                 <p>Deixe aqui sua opnião! </p>
                             </div>
                             <br />
                             <div className="w- [120px] h-[200px]">
-                                <br />
+                                <br />   
+                                <div className="flex justify-around gap-4">
+                                <ModalPostagem />
+                            </div>
                                 <div
                                     className="rounded text-white 
                                             border-pink-400 border-solid border-4 py-2 px-6 bg-pink-400 hover:bg-pink-700"
@@ -45,6 +50,7 @@ function Home() {
                     </div>
                 </div>
             </div>
+            <ListaPostagens />
         </>
     );
 }
