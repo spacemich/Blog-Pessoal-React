@@ -838,7 +838,7 @@ binary-extensions@^2.0.0:
   dependencies:
     "@phosphor-icons/react" "^2.1.7"
     axios "^1.7.9"
-    blogpessoal "file:../../../AppData/Local/Yarn/Cache/v6/npm-blogpessoal-0.0.0-4c56226d-b7d3-4eaf-8e2f-2bfb0af7b271-1737661201604/node_modules/blogpessoal"
+    blogpessoal "file:../../../AppData/Local/Yarn/Cache/v6/npm-blogpessoal-0.0.0-bb17d81d-05a9-4b34-a23b-510d2170fd5f-1737662460050/node_modules/blogpessoal"
     react "^18.3.1"
     react-dom "^18.3.1"
     react-loader-spinner "^6.1.6"
@@ -1819,6 +1819,11 @@ react@^18.3.1:
   integrity sha512-wS+hAgJShR0KhEvPJArfuPVN1+Hz1t0Y6n5jLrGQbkb4urgPE/0Rve+1kMB1v/oWgHgm4WIcV+i7F2pTVj+2iQ==
   dependencies:
     loose-envify "^1.1.0"
+
+reactjs-popup@2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/reactjs-popup/-/reactjs-popup-2.0.6.tgz#ff0e340e31d03785ae62f6b6cf62de1ef48c9605"
+  integrity sha512-A+tt+x9wdgZiZjv0e2WzYLD3IfFwJALaRaqwrCSXGjo0iQdsry/EtBEbQXRSmQs7cHmOi5eytCiSlOm8k4C+dg==
 
 read-cache@^1.0.0:
   version "1.0.0"
