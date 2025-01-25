@@ -39,7 +39,7 @@ function ListaTemas() {
     }, [temas.length])
 
     return (
-        <>   <div style={{
+        <>   <div className= "border flex flex-col overflow-hidden" style={{
             backgroundImage: "url('https://i.imgur.com/Hv2rahM.jpeg')", 
             backgroundSize: "cover", 
             backgroundRepeat: "no-repeat", 
